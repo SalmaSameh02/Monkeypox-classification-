@@ -1,5 +1,5 @@
-# Monkeypox-classification-
-CAD project... 
+# Monkeypox-classification - CAD project... 
+
 <h1>Introduction</h1>
 This project focuses on building a machine learning model to classify cases of monkeypox using a binary dataset. The goal is to support healthcare professionals by providing a tool for early detection and diagnosis, which could help combat the spread of the disease. By applying advanced techniques in data processing, feature extraction, and model evaluation, this project achieves impressive classification performance.
 <h1>
